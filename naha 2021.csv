@@ -1,0 +1,13 @@
+,Mean_solar_radiation,Total_Precipitation,Mean_wind_speed,Mean_relative_humidity,Percentage_possible_sunshine,Total_sunshine_duration,Mean_air_temperature
+JAN,9.5,118.5,5.4,71,30,98.7,16.8
+FEB,13.8,194.5,4.8,72,48,150.7,18.5
+MAR,14.8,69.5,4.5,76,40,146.9,20.8
+APR,16.6,92,5.6,73,38,145.1,21.7
+MAY,18.3,163.5,5.6,87,36,150.3,25.8
+JUN,15.2,893.5,5,90,27,111.9,27.1
+JUL,19.4,337.5,6.1,84,47,198.1,28.8
+AUG,20.2,109.5,5.5,83,50,202,28.7
+SEP,19.1,241,4.1,80,62,228.2,28.8
+OCT,14.6,107.5,6.1,76,42,112.3 ,26.7 
+NOV,,,,,,,
+DEC,,,,,,,
